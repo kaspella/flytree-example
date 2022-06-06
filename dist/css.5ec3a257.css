@@ -1,0 +1,89 @@
+body {
+  background-color: white;
+}
+
+ul {
+  list-style-type: none;
+}
+
+li {
+  font-size: 20px;
+  padding-top: 20px;
+  padding-bottom: 10px;
+  /* border: 1px solid red; */
+}
+
+.menu-container {
+  /* height: 100%;
+  width: 200px;
+  margin-top: 1px;
+  box-shadow: 5px;
+  padding: 10px; */
+  border-right: 10px solid red;
+}
+
+.menu-side {
+  margin-left: 10px;
+}
+
+.decription-menu-side {
+  margin-left: 10px;
+  font-size: 6;
+  color: grey;
+}
+
+section {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  background-color: #e0e0e0;
+  padding: 20px 20px 20px 20px;
+}
+
+.left {
+  width: 200px;
+  height: 500px;
+  display: flex;
+  /* justify-content: space-between; */
+  background-color: white;
+  margin-top: 20px;
+  margin-left: 50px;
+  margin-bottom: 50px;
+}
+
+.right {
+  max-width: 200px;
+  background-color: red;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.column-20 {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  height: 300px;
+}
+
+.column-70 {
+  float: left;
+  width: 70%;
+  padding: 20px 20px 20px 60px;
+  margin-left: 5%;
+}
+
+.row {
+  display: flex;
+  margin-left: 10%;
+  margin-top: 5%;
+}
+
+.shadow {
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+/*# sourceMappingURL=/css.5ec3a257.css.map */
