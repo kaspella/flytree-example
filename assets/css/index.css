@@ -16,21 +16,22 @@ li {
   margin-left: 10px;
   font-size: 18px;
   color: white;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-decoration: none; ;
 }
 .menu-side {
   margin-left: 10px;
   font-size: 15px;
   color: #000;
-  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: 'Montserrat', sans-serif;
   text-decoration: none;
 }
 
 .menu-c2 {
   margin-left: 10px;
   font-size: 14px;
-  color: #A0AAA6;
+  color: #125648;
+  font-family: 'Montserrat', sans-serif;
 }
 
 .decription-menu-side {
